@@ -1,5 +1,5 @@
 <?php 
 
-echo "Hello <strong>World</strong>";
+echo "<strong>Olá mundo</strong>";
 
 ?>
